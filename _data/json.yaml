@@ -1,0 +1,20 @@
+- key: Name
+  value: Valmorbida Andrea
+- key: Description
+  value:
+    - Hello!
+    - Im a junior developer
+    - This is my CV ↓
+  typed: true
+- key: CV
+  value: cv.pdf
+  url: /cv.pdf
+- key: Contact
+  value:
+    - key: Email
+      value: andreavlm03@gmail.com
+      url: "mailto:andreavlm03@gmail.com"
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/Andreavlm
